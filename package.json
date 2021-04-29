@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "prettier": "2.2.1",
+    "snowpack": "^3.3.5"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  }
+}
